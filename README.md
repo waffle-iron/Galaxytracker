@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/w9jds/Galaxytracker.png?label=ready&title=Ready)](https://waffle.io/w9jds/Galaxytracker)
 # Galaxytracker
 Issue tracker for my Eve Online wormhole mapper found here: http://partymapper.azurewebsites.net/ (Currently in testing)
 
