@@ -1,5 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/w9jds/Galaxytracker.png?label=ready&title=Ready)](https://waffle.io/w9jds/Galaxytracker)
-# Galaxytracker
+# Galaxytracker [![Stories in Ready](https://badge.waffle.io/w9jds/Galaxytracker.png?label=ready&title=Ready)](https://waffle.io/w9jds/Galaxytracker)
 Issue tracker for my Eve Online wormhole mapper found here: http://partymapper.azurewebsites.net/ (Currently in testing)
 
 Since the project source code is technically close source, for now anyway, I will be using this repo to track all of my open issues. As well as my current progress on items I am working on.
